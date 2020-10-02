@@ -1,0 +1,8 @@
+#creating a loop up of hello world using python
+list = ["Hello ",I Am Harsh.....! ","Hello World"........!"]
+for x in list:
+    print(x)
+    
+'''result Hello
+        I Am Harsh......!
+        Hello World.....!'''
